@@ -1,0 +1,13 @@
+{
+  "versionCode": 6,
+  "versionName": "1.5",
+  "notes": "Aggiornamento automatico da GitHub: all'apertura l'app controlla se c'è una versione nuova. Pulsante «Controlla aggiornamenti» nel menu.",
+  "telefono": {
+    "apkUrl": "https://github.com/remcaldaie-art/ruota-fortuna-updates/releases/download/1.5/RuotaDellaFortuna-telefono.apk",
+    "sha256": "a13e1b4c9c8b8996f85bc9eddd83f25d22985985ae2891ec8e1b5677824d48a3"
+  },
+  "firetv": {
+    "apkUrl": "https://github.com/remcaldaie-art/ruota-fortuna-updates/releases/download/1.5/RuotaDellaFortuna-FireTV.apk",
+    "sha256": "11887d07a3ef124b299d2d83e896e15be9474e7b98b68d8b10fb8bb8b2152a30"
+  }
+}
