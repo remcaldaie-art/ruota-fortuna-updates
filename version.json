@@ -1,13 +1,13 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "notes": "Aggiornamento automatico da GitHub: all'apertura l'app controlla se c'è una versione nuova. Pulsante «Controlla aggiornamenti» nel menu.",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "notes": "Versione 1.6: 43 carte, lettura foto migliorata con più carte insieme, Round Veloce, vocali a 250 €",
   "telefono": {
-    "apkUrl": "https://github.com/remcaldaie-art/ruota-fortuna-updates/releases/download/1.5/RuotaDellaFortuna-telefono.apk",
-    "sha256": "a13e1b4c9c8b8996f85bc9eddd83f25d22985985ae2891ec8e1b5677824d48a3"
+    "apkUrl": "https://github.com/remcaldaie-art/ruota-fortuna-updates/releases/download/1.6/RuotaDellaFortuna-telefono.apk",
+    "sha256": "fddcd3a3e9118caae50e6644db8e47e036d93fb59c479d30da5f2aa7df6e1f4e"
   },
   "firetv": {
-    "apkUrl": "https://github.com/remcaldaie-art/ruota-fortuna-updates/releases/download/1.5/RuotaDellaFortuna-FireTV.apk",
-    "sha256": "11887d07a3ef124b299d2d83e896e15be9474e7b98b68d8b10fb8bb8b2152a30"
+    "apkUrl": "https://github.com/remcaldaie-art/ruota-fortuna-updates/releases/download/1.6/RuotaDellaFortuna-FireTV.apk",
+    "sha256": "5800e66d42687734840aaebccbf0e85d9ebee2d3f555cec440df0be31bbc266c"
   }
 }
